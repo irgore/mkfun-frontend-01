@@ -1,0 +1,5 @@
+[
+  {"file": "1-board.png", "route": "#/", "viewport": [1280, 800]},
+  {"file": "2-bounty.png", "route": "#/bounty/token-radar-01", "viewport": [1280, 800]},
+  {"file": "3-leaderboard.png", "route": "#/bounty/token-radar-01/leaderboard", "viewport": [1280, 800]}
+]
